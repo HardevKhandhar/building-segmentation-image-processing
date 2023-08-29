@@ -35,3 +35,7 @@
 * Given enough training time on GPU, larger datasets can be used for training the network. This can highly improve the accuracy and allow leveraging such image / semantic segmentation techniques in production Enterprise GIS environments. Rapid advances in Image Understanding using Computer Vision techniques have brought us many state-of-the-art deep learning models across various benchmark datasets.
 
 * Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example. It is getting lots of attention lately and for good reason. It’s achieving results that were not possible before. These models can achieve state-of-the-art accuracy, sometimes exceeding human-level performance.
+
+---
+
+Thank you!
